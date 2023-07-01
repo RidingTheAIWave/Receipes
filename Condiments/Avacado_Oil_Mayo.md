@@ -1,8 +1,8 @@
 ## Ingredients
-* 1 c Avacado Oil
 * 2 egg yolks
-* 2 tsp Grey Poupon Country Dijon 
 * 1/2 tsp Kosher Salt
+* 2 tsp Grey Poupon Country Dijon 
+* 1 c Avacado Oil
 * 1 tbsp Lemon Juice from Con
 
 ## Tools
@@ -17,3 +17,9 @@
 * When correct consistancy stop mixing and refridgerate for 4 hours. 
 
  ## Results
+ Way too thick. I had to add 4 tbls of oil and some egg white to make stable. 
+
+ ## Improvements
+ One Egg! 
+
+Improve self-stability because of raw egg. 
