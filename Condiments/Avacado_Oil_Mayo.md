@@ -1,4 +1,4 @@
-## Ingred
+## Ingredients
 * 1 c Avacado Oil
 * 2 egg yolks
 * 2 tsp Grey Poupon Country Dijon 
@@ -10,10 +10,10 @@
 * Container (Ideally the mix container from the blender) 
 
 ## Instructions 
- Layer with Egg Yolk. Salt, Dijon, Oil, Lemon 
- Insert IB to bottom on container.
- Full Power. 
- Slowly mix and lift. 
- When correct consistancy stop mixing and refridgerate for 4 hours. 
+* Layer with Egg Yolk. Salt, Dijon, Oil, Lemon.
+* Insert IB to bottom on container.
+* Full Power.
+* Slowly mix and lift IB.
+* When correct consistancy stop mixing and refridgerate for 4 hours. 
 
  ## Results
